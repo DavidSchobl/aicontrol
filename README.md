@@ -38,7 +38,7 @@ AICW came to life from the all-too-common frustrations like scouring through fil
 - While `.exe` creation with PyInstaller might obscure the console, opting for `run.bat` keeps it visible. Choose what works best for your workflow!
 
 ## Acknowledgments
-Managing AI tools effectively requires a reliable and efficient system, and AICW has been crafted with this in mind, incorporating feedback and iterative improvements to enhance its functionality. Special thanks to OpenAI, as parts of the code were programmed or refined with their assistance, demonstrating the collaborative power of AI and human ingenuity.
+Managing AI tools effectively requires a reliable and efficient system, and AICW has been crafted with this in mind, incorporating feedback and iterative improvements to enhance its functionality. Special thanks to OpenAI's ChatGPT, as parts of the code were programmed or refined with it's assistance, demonstrating the collaborative power of AI and human ingenuity.
 
 ## Summary
 AI Controller for Windows is not just a tool; it’s a game-changer in AI management, designed to make your digital journey smoother and more manageable. Embrace the efficiency of AICW and transform the way you interact with AI tools. AICW is here to jazz up your AI experience. Let the good times roll!
